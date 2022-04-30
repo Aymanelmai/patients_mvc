@@ -14,6 +14,8 @@ Encadré par Mr Mohammed Youssfi :
 
 -Hibernate solution open source de type ORM (Object Relational Mapping) qui permet de faciliter le développement de la couche persistance d'une application.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 -Le but de l'application est de gerer les patients d'un soit disant hopital, tout en ayant la possibilité d'utiliser les methodes CRUD afin de recevoir ces données sous fourmes de tableaux bien organisé , facilitant aux utilisateurs la vue de données.
 
 ![1](https://user-images.githubusercontent.com/73953594/166082187-d3a2e866-ffa8-429e-b032-89ba7cc1e6df.png)
